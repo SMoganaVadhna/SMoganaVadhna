@@ -1,4 +1,4 @@
-👋 Hi, I’m **Mogana Vadhna Suntrakumar**
+ 👋 Hi, I’m **Mogana Vadhna Suntrakumar**
 
 - 👀 I’m interested in **Data Science, Machine Learning, and Data Visualization**.
 - 🌱 I’m currently learning **Deep Learning with TensorFlow** and **time-series analysis techniques**.
